@@ -1,0 +1,7 @@
+i=2
+while(i<20):
+    if i%2==0:
+        print("i is not prime",i)
+    else:
+        print("i is prime",i)
+    i=i+1
